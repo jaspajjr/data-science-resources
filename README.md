@@ -32,3 +32,7 @@
 * https://www.scipy.org https://github.com/scipy/scipy
 * http://scikit-learn.org https://github.com/scikit-learn/scikit-learn
 * http://rasbt.github.io/mlxtend  https://github.com/rasbt/mlxtend
+
+
+### Other better Data Science Aggregations
+https://github.com/ossu/data-science
