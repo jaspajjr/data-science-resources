@@ -2,6 +2,7 @@
 
 * https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 * https://github.com/rasbt/python-machine-learning-book-2nd-edition
+* https://github.com/zacstewart/data-science-blogs
 
 
 ### Smart people to read / follow
