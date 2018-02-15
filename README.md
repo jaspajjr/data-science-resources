@@ -24,6 +24,7 @@
 
 #### Deep Learning
 * https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/
+* https://github.com/lisa-lab/DeepLearningTutorials
 
 
 
