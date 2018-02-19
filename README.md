@@ -2,6 +2,7 @@
 
 * https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 * https://github.com/rasbt/python-machine-learning-book-2nd-edition
+* https://github.com/zacstewart/data-science-blogs
 
 
 ### Smart people to read / follow
@@ -23,6 +24,7 @@
 
 #### Deep Learning
 * https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/
+* https://github.com/lisa-lab/DeepLearningTutorials
 
 #### Markov Chain Monte Carlo
 * http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html
