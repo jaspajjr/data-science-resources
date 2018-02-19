@@ -24,7 +24,14 @@
 #### Deep Learning
 * https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/
 
+#### Markov Chain Monte Carlo
+* http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html
 
+#### ML system architecture and considerations
+* http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+* http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html
+* https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45742.pdf
+* Machine Learning: The High Interest Credit Card of Technical Debt / https://research.google.com/pubs/pub43146.html
 
 ## Useful Libraries
 * https://pandas.pydata.org https://github.com/pandas-dev/pandas
@@ -32,6 +39,8 @@
 * https://www.scipy.org https://github.com/scipy/scipy
 * http://scikit-learn.org https://github.com/scikit-learn/scikit-learn
 * http://rasbt.github.io/mlxtend  https://github.com/rasbt/mlxtend
+* http://george.readthedocs.io/en/latest/tutorials/hyper/
+
 
 
 ### Other better Data Science Aggregations
